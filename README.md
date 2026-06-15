@@ -26,3 +26,9 @@ Proyek ini menggunakan **Modular Architecture** yang digabungkan dengan **Contro
 4. Sesuaikan konfigurasi database pada file `.env`.
 5. Jalankan aplikasi dengan `pnpm run start:dev`.
 6. Jalankan E2E testing dengan `pnpm run test:e2e`.
+
+## API Documentation
+
+Seluruh dokumentasi *endpoint*, parameter, beserta contoh *request* dan *response* telah disusun dengan rapi menggunakan Postman.
+
+[🔗 [Buka Dokumentasi Postman di sini](https://documenter.getpostman.com/view/54082264/2sBXwtoomZ)]
